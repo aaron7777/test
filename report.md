@@ -10,7 +10,7 @@ Though Python has many advantages such as its flexibility and simple expressive 
 
 Numba is a Numpy-aware optimizing compiler for Python. Numba supports the just-in-time compilation from original Python code to machine code wih the LLVM compiler infrastructure.
 
-![image](https://github.com/aaron7777/pic/raw/master/1.jpg)
+			![image](https://github.com/aaron7777/pic/raw/master/1.jpg)
 
 
 ## Sample Test
