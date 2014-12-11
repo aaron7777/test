@@ -293,7 +293,10 @@ As can be seen from the picture, gpu parallel with shared memory speed up for al
 
 
 ## Future Work
+The improvemnt of performance of Python code on GPUs still leaves much to be desired. For example, the problem of band conflicts still exists and has bad effect on progrem speedup. Also, we used CUDA JIT decorator in the project several time. In the future, we are interested in developing our own decorator to improve the performance further.
 
-## Conclusion
 
 ## Reference
+1. http://numba.pydata.org/
+2. http://docs.continuum.io/numbapro/
+3. https://developer.nvidia.com/how-to-cuda-python
